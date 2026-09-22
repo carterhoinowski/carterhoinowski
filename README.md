@@ -1,16 +1,13 @@
-## Hi there 👋
+Carter Hoinowski
 
-<!--
-**carterhoinowski/carterhoinowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with a design background. Finishing a BS in Graphic & Web Design at Wilmington University (Dec 2026), coming from an IT networking background before that.
 
-Here are some ideas to get you started:
+Currently building Leader, a fitness leaderboard app, as my senior capstone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to full-stack, product engineering, and front-end roles, particularly around Dallas and Raleigh.
+
+Portfolio: https://github.com/carterhoinowski/Portfolio
+LinkedIn: carter-hoinowski
+Email: carterhoinowski@gmail.com
+
+Stack: JavaScript, SQL, HTML/CSS, currently deepening full-stack fundamentals.
